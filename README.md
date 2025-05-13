@@ -18,7 +18,7 @@ It allows:
 - A code editor (like Visual Studio Code) [optional]
 
 ### Steps:
-1. **Clone the Repository** (if hosted):
+1. **Clone the Repository** :
    ```
    git clone https://github.com/osemaoje/db-wk8.git
 Open library_system.sql in MySQL Workbench or your SQL editor.
@@ -45,26 +45,16 @@ You can then start inserting data and executing queries.
 You can create and export an ERD using dbdiagram.io, MySQL Workbench, or draw.io.
 
 📂 Repository Structure
-pgsql
-Copy
-Edit
+````
 library-management-system/
 │
 ├── library_system.sql        # 📌 Main SQL file with CREATE TABLE statements
 ├── README.md                 # 📘 Project Overview and Setup Instructions
 └── erd.png                   # 🧩 ERD Diagram (optional)
+````
 💡 Author
-Name: Your Name
+Name: ELIMIMIAN OSEMAOJJE OLUSEGUN
 
-GitHub: @yourusername
+GitHub: @osemaoje
 
-📬 License
-This project is open-source and free to use under the MIT License.
 
-yaml
-Copy
-Edit
-
----
-
-Would you like help generating an **ERD image**, or should I give you a simple ERD diagram in text form?
